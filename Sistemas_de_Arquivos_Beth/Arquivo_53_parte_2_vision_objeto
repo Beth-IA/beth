@@ -1,0 +1,12 @@
+
+"
+      },
+      "features": [
+        {
+          "maxResults": 10,
+          "type": "LABEL_DETECTION"
+        }
+      ]
+    }
+  ]
+}

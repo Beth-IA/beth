@@ -1,0 +1,1 @@
+cat -n "Arquivo_14_dado_desejado" | grep "name" > Arquivo_16_dado_desejado

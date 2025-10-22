@@ -1,0 +1,1 @@
+cat -n "Arquivo_33_resposta_google_sentimento" | grep "score" > Arquivo_36_sentimento_score

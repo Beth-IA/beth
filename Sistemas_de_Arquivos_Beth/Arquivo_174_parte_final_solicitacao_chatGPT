@@ -1,0 +1,8 @@
+"
+
+(res, usage) = GPT(query)
+print(res)
+
+arquivo = open('./Arquivo_175_resultado_assistente_chatGPT', 'w')
+arquivo.writelines(res)
+arquivo.close()

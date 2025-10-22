@@ -1,0 +1,1 @@
+cat -n "Arquivo_5_Resposta_Solicitacao_PLN" | grep "LOCATION" > Arquivo_7_extracao_caracteristica_PLN

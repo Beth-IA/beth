@@ -1,0 +1,1 @@
+cat -n "Arquivo_72_resposta_traducao" | grep "translatedText" > Arquivo_77_traducoes

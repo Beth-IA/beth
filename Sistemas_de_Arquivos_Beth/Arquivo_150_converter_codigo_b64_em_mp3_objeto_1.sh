@@ -1,0 +1,1 @@
+base64 Arquivo_22_codigoB64_resposta_robo -d > Arquivo_126_audio_resposta_objeto_1.mp3

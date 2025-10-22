@@ -1,0 +1,58 @@
+{
+  "responses": [
+    {
+      "logoAnnotations": [
+        {
+          "mid": "/m/05b4c",
+          "description": "Nissan",
+          "score": 0.86048293,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 142,
+                "y": 276
+              },
+              {
+                "x": 232,
+                "y": 276
+              },
+              {
+                "x": 232,
+                "y": 351
+              },
+              {
+                "x": 142,
+                "y": 351
+              }
+            ]
+          }
+        },
+        {
+          "mid": "/m/05gpq_",
+          "description": "La Leche League",
+          "score": 0.6206382,
+          "boundingPoly": {
+            "vertices": [
+              {
+                "x": 305,
+                "y": 15
+              },
+              {
+                "x": 384,
+                "y": 15
+              },
+              {
+                "x": 384,
+                "y": 53
+              },
+              {
+                "x": 305,
+                "y": 53
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+arquivo = open('./Arquivo_113_posicao_x_objeto_0', 'r')
+posicao_objeto_0 = arquivo.readlines()
+posicao_objeto_0 = posicao_objeto_0[0]
+print(posicao_objeto_0)
+
+arquivo = open('./Arquivo_114_posicao_x_objeto_1', 'r')
+posicao_objeto_1 = arquivo.readlines()
+posicao_objeto_1 = posicao_objeto_1[0]
+print(posicao_objeto_1)
+
+arquivo = open('./Arquivo_115_posicao_x_objeto_2', 'r')
+posicao_objeto_2 = arquivo.readlines()
+posicao_objeto_2 = posicao_objeto_2[0]
+print(posicao_objeto_2)
+
+#Fazer o ranking 
+
+#Contagem objeto 0
+if(posicao_objeto_0>posicao_objeto_1):
+	contador_0 = contador_0 + 1
+if(posicao_objeto_0>posicao_objeto_2):
+        contador_0 = contador_0 + 1
+
+#Contagem objeto 1
+if(posicao_objeto_1>posicao_objeto_0):
+        contador_1 = contador_1 + 1
+if(posicao_objeto_1>posicao_objeto_2):
+        contador_1 = contador_1 + 1
+
+#Contagem objeto 2
+if(posicao_objeto_2>posicao_objeto_1):
+        contador_2 = contador_2 + 1
+if(posicao_objeto_2>posicao_objeto_0):
+        contador_2 = contador_2 + 1
+
+
+

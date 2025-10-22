@@ -1,0 +1,1 @@
+curl -X POST \-H "Authorization: Bearer "$(gcloud auth application-default print-access-token) \-H "Content-Type: application/json; charset=utf-8" \-d @Arquivo_71_conteudo_solicitacao.json \https://translation.googleapis.com/language/translate/v2 > Arquivo_72_resposta_traducao

@@ -1,0 +1,11 @@
+"
+      },
+      "features": [
+        {
+          "maxResults": 10,
+          "type": "FACE_DETECTION"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+curl -X POST \-H "Authorization: Bearer "$(gcloud auth application-default print-access-token) \-H "Content-Type: application/json; charset=utf-8" \-d @Arquivo_181_Solicitacao_VERTEX.json \https://us-central1-aiplatform.googleapis.com/v1/projects/roboia-415311/locations/us-central1/publishers/google/models/imagetext:predict > Arquivo_182_Resposta_Solicitacao_VERTEX

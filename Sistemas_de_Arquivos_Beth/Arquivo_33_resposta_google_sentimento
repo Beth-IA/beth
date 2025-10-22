@@ -1,0 +1,19 @@
+{
+  "documentSentiment": {
+    "magnitude": 0.6,
+    "score": -0.6
+  },
+  "language": "pt-PT",
+  "sentences": [
+    {
+      "text": {
+        "content": "meu dia foi péssimo eu fui no shopping e perdi meu celular porque estava com Miguel",
+        "beginOffset": 0
+      },
+      "sentiment": {
+        "magnitude": 0.6,
+        "score": -0.6
+      }
+    }
+  ]
+}

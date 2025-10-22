@@ -1,0 +1,1 @@
+cat -n "Arquivo_57_resposta_solicitacao_vision_objetos" | grep "description" > Arquivo_63_todos_objetos

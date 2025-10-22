@@ -1,0 +1,1 @@
+cat -n "Arquivo_85_Resposta_Varios_Objetos" | grep "name" > Arquivo_101_nomes_varios_objetos

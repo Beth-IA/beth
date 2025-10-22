@@ -1,0 +1,1 @@
+cat -n "Arquivo_5_Resposta_Solicitacao_PLN" | grep "14" > Arquivo_14_dado_desejado

@@ -1,0 +1,50 @@
+{
+  "entities": [
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 52,
+            "content": "celular"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "celular",
+      "salience": 0.38872603,
+      "type": "CONSUMER_GOOD"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 78,
+            "content": "Miguel"
+          },
+          "type": "PROPER"
+        }
+      ],
+      "metadata": {},
+      "name": "Miguel",
+      "salience": 0.32795414,
+      "type": "PERSON"
+    },
+    {
+      "mentions": [
+        {
+          "text": {
+            "beginOffset": 31,
+            "content": "shopping"
+          },
+          "type": "COMMON"
+        }
+      ],
+      "metadata": {},
+      "name": "shopping",
+      "salience": 0.28331986,
+      "type": "LOCATION"
+    }
+  ],
+  "language": "pt-PT"
+}

@@ -1,0 +1,1 @@
+curl -X POST \-H "Authorization: Bearer "$(gcloud auth application-default print-access-token) \-H "Content-Type: application/json; charset=utf-8" \-d @Arquivo_83_Solicitacao_desafio.json \https://vision.googleapis.com/v1/images:annotate > Arquivo_85_Resposta_Varios_Objetos

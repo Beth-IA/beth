@@ -1,0 +1,15 @@
+import openai
+model_engine = "text-davinci-003"
+openai.api_key = "SUA_CHAVE_AQUI"
+def GPT(query):
+   response = openai.Completion.create(
+       engine=model_engine,
+       prompt=query,
+       max_tokens=1024,
+       temperature=0.5,
+   )
+   return str.strip(response['choices'][0]['text']), response['usage']['total_tokens']
+exit_words = ("q","Q","quit","QUIT","EXIT")
+
+
+query = "

@@ -1,0 +1,1 @@
+cat -n "Arquivo_56_resposta_solicitacao_vision_facial" | grep "joyLikelihood" > Arquivo_60_extracao_caracteristica_facial
